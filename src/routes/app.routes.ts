@@ -1,0 +1,1 @@
+// This file is no longer used in the React version of the application.
